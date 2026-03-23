@@ -2,7 +2,7 @@
 
 Atividade 3 da disciplina Tópicos para Computação 1 (2026.1) — Escola Superior de Tecnologia (UEA).
 
-Implementação do zero da arquitetura AlexNet para classificação multiclasse do [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/), com 120 raças de cachorro e cerca de 20 mil imagens.
+Implementação do zero da arquitetura AlexNet para classificação multiclasse do [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/), com 120 raças de cachorro e cerca de 20 mil imagens (12 mil treino e 8580 teste).
 
 ---
 
@@ -112,6 +112,5 @@ A diferença expressiva entre treino e teste indica overfitting — esperado dad
 - Krizhevsky, A., Sutskever, I., Hinton, G. (2012). *ImageNet Classification with Deep Convolutional Neural Networks*. NeurIPS.
 - [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/)
 - [PyTorch Documentation](https://docs.pytorch.org)
-
 
 **README feito com IA**
